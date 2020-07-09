@@ -1,6 +1,6 @@
 # front-app
 
-frontend in https://github.com/Fritola/frontend-dashboard/
+frontend in https://github.com/Fritola/dashboard-frontend
 
 ## Project setup
 ```
