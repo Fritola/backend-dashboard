@@ -15,15 +15,15 @@ Project using Node+express and MongoDB
 ## Endpoints
 
   Return all users <br>
-  GET<br>
+  ### GET<br>
   https://vue-dashboard-api.herokuapp.com/user
     
   Return one user based on ID<br>
-  GET<br>
+  ### GET<br>
   https://vue-dashboard-api.herokuapp.com/user/{id}
   
   Create user<br>
-  POST<br>
+  ### POST<br>
   https://vue-dashboard-api.herokuapp.com/user <br>
     {
       "cpf": 123456, <br>
@@ -33,11 +33,11 @@ Project using Node+express and MongoDB
     }
     
   Delete user based on ID <br>
-  DELETE <br>
+  ### DELETE <br>
   https://vue-dashboard-api.herokuapp.com/user/{id} <br>
   
   Updated user based on ID <br>
-  PUT <br>
+  ### PUT <br>
   https://vue-dashboard-api.herokuapp.com/user/{id} <br>
   {
       "cpf": 123456, <br>
